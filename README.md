@@ -8,7 +8,7 @@
 <ol>
     <li>Click the fork button at the top of the repository <a href="http://eofdreams.com/data_images/dreams/fork/fork-01.jpg"><img src="README_resources/fork_click.JPG" alt="Click the Fork button"></a></li>
     <li>Go to your github page, and navigate to the repository you just forked</li>
-    <li>Clike on the copy link  <img src="README_resources/clone_link.JPG" alt="Click the clipboard button"></li>
+    <li>Clike on the copy link  <img src="README_resources/clone_link.JPG" alt="Click the clipboard button" width="30" height="60"></li>
     <li>Clone the repository to your local machine</li>
         <ol>
             <li>Open a terminal</li>
@@ -30,7 +30,7 @@
 <a href="https://help.github.com/articles/fork-a-repo/#step-3-configure-git-to-sync-your-fork-with-the-original-spoon-knife-repository"><h3></h3>Keeping your repository in sync with the main repository</a>
 <ol>
     <li>Navigate to the <a href="https://github.com/AdamLeBlanc/BeagleWebSite">main repository</a></li>
-    <li>Copy the copy button<img src="README_resources/clone_link.JPG" alt="Click the clipboard button"></li>
+    <li>Copy the copy button<img src="README_resources/clone_link.JPG" alt="Click the clipboard button" width="30" height="60"></li>
     <li>Open a terminal and change directories to where you have the fork of your repository</li>
     <li>type <i>git remote add upstream [link you copied]</i></li>
     <li>Now you will be able to pull changes from the main repository, so if there is a change there you can sync it up with your repository. It is recomended to fetch from the main repository often, as this is the "official version" of the code.</li>
