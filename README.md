@@ -48,8 +48,8 @@
     <li>Make use of branches to implement changes, or create new apps</li>
     <li>If you want something done create an entry in the TODO file</li>
     <li>If you don't know what to do look in the TODO file</li>
-    <li>Add design markups to the Markup folder</li>
-    <li>Group markups appropriately, use good names for the files, and try to include a text description of each markup you submit</li>
+    <li>Add design mockups to the mockup folder</li>
+    <li>Group mockups appropriately, use good names for the files, and try to include a text description of each mockup you submit</li>
     <li>Try to use proper spelling and grammar, mistakes happen though so if you see a mistake fix it</li>
     <li>Use lower case tags in HTML5</li>
     <li>Do not motify the LICENSE File</li>
