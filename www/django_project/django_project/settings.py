@@ -29,7 +29,7 @@ ALLOWED_HOSTS = []
 
 # Application definition
 # apps that are installed by deault
-DEFAULT_APPS =  (
+DEFAULT_APPS = (
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
