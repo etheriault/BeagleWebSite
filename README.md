@@ -27,7 +27,7 @@
     <li>Edit the <i>settings.py</i> file as necessary (most likely the database settings), however revert these before making a pull request. </li>
 </ol>
 
-<a href="https://help.github.com/articles/fork-a-repo/#step-3-configure-git-to-sync-your-fork-with-the-original-spoon-knife-repository"><h3></h3>Keeping your repository in sync with the main repository</a>
+<h3><a href="https://help.github.com/articles/fork-a-repo/#step-3-configure-git-to-sync-your-fork-with-the-original-spoon-knife-repository">Keeping your repository in sync with the main repository</a></h3>
 <ol>
     <li>Navigate to the <a href="https://github.com/AdamLeBlanc/BeagleWebSite">main repository</a></li>
     <li>Copy the copy button<img src="README_resources/clone_link.JPG" alt="Click the clipboard button"></li>
