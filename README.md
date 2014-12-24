@@ -53,6 +53,7 @@
     <li>Try to use proper spelling and grammar, mistakes happen though so if you see a mistake fix it</li>
     <li>Use lower case tags in HTML5</li>
     <li>Do not motify the LICENSE File</li>
+    <li>View specific templates should be bundled with the view, site wide templates should be stored with the project</li>
 </ul>
 
 <p>If you would like to be listed as a Collaborator so you can approve pull request, and other the other goodies that come along with it send an email to AdamLeBlanc; if you have shown your commitment to the project, and that you can be trusted making important decisions he will add you as a collaborator.</p>
