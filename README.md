@@ -56,4 +56,5 @@
     <li>View specific templates should be bundled with the view, site wide templates should be stored with the project</li>
 </ul>
 
+<h3>A final Note<h3>
 <p>If you would like to be listed as a Collaborator so you can approve pull request, and other the other goodies that come along with it send an email to AdamLeBlanc; if you have shown your commitment to the project, and that you can be trusted making important decisions he will add you as a collaborator.</p>

@@ -11,7 +11,7 @@
 </ul>
 
 <h3>Create Requirements Document</h3>
-<p>Unless otherwise specified put in a requirements.md file</p>
+<p>Unless otherwise specified put in a site_requirements.md file</p>
 <ul>
     <li>A detailed description of each database table we will need(use markdown or html tables to describe).</li>
     <li>A list of each view the website will need, a detailed description of the information the view will display, where it will be getting the information from, what information it may be generating for the database, how the user will interact with the view, and any more details that will aid in nailing down the specifics of the website including how the view will differ if the user is logged in or not</li>
